@@ -91,19 +91,3 @@ int main(void) {
 - GDB for low-level debugging  
 - Logic analyzer for SPI/I2C signal verification  
 
----
-
-## 🧾 License
-
-This project is licensed under the **MIT License**.  
-You’re free to modify, distribute, and use it for both educational and commercial purposes.
-
----
-
-## 👤 Author
-
-**Viet Tran (teiwiet)**  
-📧 [teiwiet33@gmail.com](mailto:teiwiet33@gmail.com)  
-🔗 [github.com/teiwiet](https://github.com/teiwiet)  
-💬 Passionate about low-level embedded systems and IoT security.
-
